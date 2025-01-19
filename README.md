@@ -11,7 +11,6 @@ This project is a React.js application designed to fetch and display a list of u
 - [Setup and Installation](#setup-and-installation)
 - [How to Run the Project](#how-to-run-the-project)
 - [Folder Structure](#folder-structure)
-- [Deployment](#deployment)
 - [Future Enhancements](#future-enhancements)
 
 ---
@@ -34,17 +33,6 @@ This project is a React.js application designed to fetch and display a list of u
   - Website
 - Includes a **Go Back** button for easy navigation to the home page.
 
-### Additional Features
-- State management using **React Context API** (or **Redux** as an option).
-- Loading spinner and error handling while fetching data.
-- Fully responsive UI for various screen sizes.
-
-### Bonus Features
-- Dark/light mode toggle.
-- Pagination for user lists.
-- Deployed on **Netlify/Vercel** for easy access.
-
----
 
 ## Technologies Used
 
